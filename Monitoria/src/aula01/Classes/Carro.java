@@ -1,4 +1,4 @@
-package Classes;
+package aula01.Classes;
 
 public class Carro {
     private int quantidadPneus;
